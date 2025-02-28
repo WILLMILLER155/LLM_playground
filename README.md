@@ -16,4 +16,4 @@ Just as the name implies, its a simple structure for a Rag pipline using FAISS v
 ## Train.py
 This is a script to help train an LLM model along with retriving the embeddings model. Something simple and easy to run through but usually the base of much larger projects.
 
-# ALL SCRIPTS RESIDE IN THE MASTER BRANCH THE README IS IN THE MAIN BRANCH
+

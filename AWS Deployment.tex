@@ -1,0 +1,6 @@
+#Architecture Overview #
++ S3: Stores datasets and fine-tuned models
++ SageMaker Training Job: Runs fine-tuning on GPU instances
++ SageMaker Endpoint: Deploys the fine-tuned model
++ Lambda Function: Handles API requests & interacts with SageMaker
++ API Gateway: Provides a public endpoint for inference
